@@ -24,7 +24,7 @@ export default function AboutPage() {
           <h2 className="text-xl font-normal mb-8">About</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-               Thank you for visiting this digital hobbit hole. There's some writing on that desk over there that you could find interesting if you'd like to check it out. Besides that, not much else. Have a great time!
+               Thank you for visiting this digital hobbit hole. There's some writing on that desk over there that you might find interesting if you'd like to check it out. Besides that, not much else. Have a great time!
             </p>
           </div>
         </main>
