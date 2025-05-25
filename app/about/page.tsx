@@ -23,7 +23,7 @@ export default function AboutPage() {
         <main>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-               My name is Christian Hayden. This is a space to upload writing on a variety of topics to help me improve my writing and to make public some potentially helpful information. Created May 2025.
+               My name is Christian Hayden. This is a space to upload writing on a variety of topics that I find interesting. I hope it can be helpful or at least entertaining.
             </p>
           </div>
         </main>
