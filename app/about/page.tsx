@@ -24,24 +24,7 @@ export default function AboutPage() {
           <h2 className="text-xl font-normal mb-8">About</h2>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-              I'm a writer and technologist interested in the intersection of technology and human behavior. I spend my
-              time thinking about how we can build better tools and systems that actually serve people.
-            </p>
-
-            <p className="text-gray-700 leading-relaxed mb-6">
-              My background is in software engineering and product development. I've worked at both startups and larger
-              companies, which has given me perspective on how different organizational structures affect the products
-              we build.
-            </p>
-
-            <p className="text-gray-700 leading-relaxed mb-6">
-              I write about technology, startups, design, and occasionally life philosophy. My essays tend to focus on
-              practical insights rather than abstract theory.
-            </p>
-
-            <p className="text-gray-700 leading-relaxed">
-              You can reach me at christian@example.com if you'd like to discuss any of my writing or just want to say
-              hello.
+               Thank you for visiting this digital hobbit hole. There's some writing on that desk over there that you could find interesting if you'd like to check it out. Besides that, not much else. Have a great time!
             </p>
           </div>
         </main>
