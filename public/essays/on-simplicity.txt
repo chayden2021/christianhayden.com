@@ -1,0 +1,17 @@
+On Simplicity
+
+Simplicity is the ultimate sophistication, as Leonardo da Vinci supposedly said. In software, this couldn't be more true.
+
+I've worked on products that started simple and gradually became complex. Feature by feature, option by option, they grew into monsters that nobody could understand—not even the people who built them.
+
+The problem isn't that features are bad. Features solve problems. The problem is that we add features without removing anything. We treat software like a museum where everything must be preserved forever.
+
+But software isn't a museum. It's a tool. And the best tools are simple tools that do their job well.
+
+Apple understood this with the iPhone. They didn't just add a touchscreen to existing phones—they removed everything else. No keyboard, no stylus, no physical buttons except the essentials. The result was revolutionary precisely because it was simpler.
+
+Simplicity requires courage. It means saying no to good ideas because they don't serve the core purpose. It means disappointing some users to serve others better. It means making hard choices about what matters most.
+
+The best way to achieve simplicity is to start with it. Begin with the smallest possible version of your idea. Then add only what's absolutely necessary. Every addition should be justified, not just possible.
+
+Complexity is easy. Simplicity is hard. But simplicity is what makes software truly powerful.

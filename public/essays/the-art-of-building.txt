@@ -1,0 +1,15 @@
+The Art of Building
+
+Building something meaningful is both an art and a science. It requires technical skill, but also intuition about what people actually need.
+
+I've noticed that the best builders share a common trait: they're obsessed with understanding the problem before they start building the solution. They spend time with users, they ask questions, and they resist the urge to jump straight into code.
+
+This is harder than it sounds. When you're excited about a technical solution, it's tempting to assume the problem is obvious. But problems are rarely obvious. They're hidden beneath layers of workarounds, assumptions, and "that's just how things work."
+
+The best products I've seen came from teams that spent months understanding a problem before writing a single line of code. They talked to users, observed workflows, and identified the real pain points—not just the obvious ones.
+
+Once you understand the problem deeply, the solution often becomes clear. Not easy, but clear. You know what to build and, more importantly, what not to build.
+
+This is why I think building is an art. It's not just about technical execution—it's about seeing what others miss, understanding what people really need, and having the discipline to build only what matters.
+
+The best builders are part detective, part artist, part engineer. They solve mysteries, create experiences, and make things work. It's a beautiful combination when done well.
