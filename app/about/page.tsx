@@ -7,7 +7,7 @@ export default function AboutPage() {
         <header className="mb-12">
           <h1 className="text-2xl font-normal mb-4">
             <Link href="/" className="text-black hover:text-blue-600">
-              Alex Chen
+              Christian Hayden
             </Link>
           </h1>
           <nav className="space-x-6">
@@ -22,8 +22,7 @@ export default function AboutPage() {
           <div className="prose prose-lg max-w-none">
             <div className="text-gray-800 leading-relaxed space-y-6">
               <p>
-                I'm a software engineer and entrepreneur based in San Francisco. I spend most of my time thinking about
-                how technology can amplify human potential rather than replace it.
+                I just graduated from college. 
               </p>
 
               <p>
