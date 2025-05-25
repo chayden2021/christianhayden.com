@@ -23,8 +23,7 @@ export default function HomePage() {
         <main>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed">
-              Thank you for visiting my online hobbit hole. There's some writing on that desk over there that could be moderately useful or interesting if you'd like to see. Besides that, not much else.
-              Have a great time!
+              Thank you for visiting this digital hobbit hole. There's some writing on that desk over there that you could find interesting if you'd like to check it out. Besides that, not much else. Have a great time!
             </p>
           </div>
         </main>
