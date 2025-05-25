@@ -23,8 +23,8 @@ export default function HomePage() {
         <main>
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed">
-              Welcome to my website. I write essays about technology, startups, and life. You can find my writing in the
-              essays section.
+              Thank you for visiting my online hobbit hole. There's some writing on that desk over there that could be moderately useful or interesting if you'd like to see. Besides that, not much else.
+              Have a great time!
             </p>
           </div>
         </main>
