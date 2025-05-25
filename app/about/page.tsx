@@ -21,8 +21,6 @@ export default function AboutPage() {
         </header>
 
         <main>
-          <h2 className="text-xl font-normal mb-8">About</h2>
-          <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
                My name is Christian Hayden, and this is a space to upload writing on a variety of topics with the goal of both helping me improve my writing and also putting together informative and useful stuff.
             </p>
